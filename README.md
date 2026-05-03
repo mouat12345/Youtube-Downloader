@@ -9,6 +9,6 @@ Simple video downloader with GUI using pytubefix and tkinter.
 
 ## Installation
 pip install -r requirements.txt
-
+git clone https://github.com/mouat12345/Youtube-Downloader.git
 ## Run
 python main.py
